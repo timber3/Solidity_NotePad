@@ -1,4 +1,5 @@
 # 주요 인프라 및 버전
+![farmyo아키텍처](https://github.com/timber3/Solidity_NotePad/assets/75405129/a249c72f-16fc-4849-bb6b-52b8ed4b61c8)
 
 ## 인프라
 
