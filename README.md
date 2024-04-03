@@ -1,20 +1,14 @@
+# 주요 인프라 및 버전
 
-# 📜 주요 인프라 및 버전 📜
+## 인프라
 
-## Infra
-
-### 1. **OS**
-
+1. **OS** 
     - Amazon EC2 Unbuntu 20.04 LTS ( 메모리 : 16GB, 디스크 용량 : 320GB )
-
-### 2. **Storage**
-
+2. **Storage**
     - Amazon S3 ( Freetier )
-
-### 3. **Ethereum**
+3. **Ethereum**
     - Sepolia Testnet
-
-### 4. **Container**
+4. **Container**
     - Docker 25.0.4
 
 ---
